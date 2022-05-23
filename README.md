@@ -1,5 +1,5 @@
 - 👋 Hi, I’m SaiTeja, a computer science student in 6th semister
-- 👀 I’m interested in Competetive coding and software development
+- 👀 I’m interested in Competetive programming and software development
 - 🌱 I’m currently learning Spring and springboot
 - 💞️ I’m looking to collaborate on simple web development projects
 - 📫 How to reach me -> tejargukt123@gmail.com
